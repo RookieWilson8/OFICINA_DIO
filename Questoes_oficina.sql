@@ -1,9 +1,4 @@
--- [ x ] Recuperações simples com SELECT;
--- [ x ] Filtros com WHERE;
--- [ x ] Crie expressões para gerar atributos derivados;
--- [ x ] Defina ordenações dos dados com ORDER BY;
--- [ x  ] Condições de filtros aos grupos – HAVING;
--- [ x ] Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
+
 
 use oficina;
 
